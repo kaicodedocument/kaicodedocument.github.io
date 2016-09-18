@@ -99,3 +99,7 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# Github Account
+github_user: kaicodedocument
+github_repo: kaicodedocument.github.io # 这里填你博客的库名，即 [your_user_name].github.io
