@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://kaicodedocument.github.io/blog/20160918/xin-de-qi-dian.html/</loc>
+<lastmod>2016-09-18T17:36:16+08:00</lastmod>
+</url>
+<url>
 <loc>http://kaicodedocument.github.io/blog/archives/</loc>
 </url>
 <url>
 <loc>http://kaicodedocument.github.io/</loc>
+</url>
+<url>
+<loc>http://kaicodedocument.github.io/blog/categories/life/</loc>
 </url>
 </urlset>
