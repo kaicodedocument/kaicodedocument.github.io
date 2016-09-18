@@ -5,8 +5,6 @@ date: 2016-09-18 17:36:16 +0800
 comments: true
 categories: Life
 ---
-* list element with functor item
-{:toc}
 
 ## 最初的起点
 2014年中旬我从Windows Phone平台转移到iOS上来，也渐渐抛弃了写了快五年多的博客园的[博客][1]. 虽然它非常不起眼，排版的样式现在看来也非常粗陋不堪，对于刚开始写博客的我来说它是一个小小的起点，但这个博客也曾经忠实的记录了我在2010年到2014年的一些技术轨迹的演变. 我从一个不甘心的只写一些企业级应用的.NET程序员，在HTML5尚未面世，针对跨平台RIA技术微软的Silverlight和Adobe的Flex相互争夺下一个技术高地如火如荼的时刻，身在Windows平台技术栈中也自然的大胆敞开怀抱开始拥抱Silverlight，我不知道跨出的这一小步会带来什么？
