@@ -27,10 +27,10 @@ body > header h2 {
 }
 
 body {
-  font-family: $sans-font;
-  font-size: 1em;
+
   line-height: 1.5em;
-  color: $text-color;
+  color: #666666;//$text-color;
+  font-size: 1em;
   @extend .serif;
 }
 h1 {
