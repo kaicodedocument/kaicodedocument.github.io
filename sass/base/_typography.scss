@@ -27,10 +27,8 @@ body > header h2 {
 }
 
 body {
-  font-family: 'Noto Sans SC', sans-serif;
-  font-size: 1em;
   line-height: 1.5em;
-  color: #666666;//$text-color;
+  color: $text-color;
   @extend .serif;
 }
 h1 {
