@@ -27,6 +27,8 @@ body > header h2 {
 }
 
 body {
+  font-family: $sans-font;
+  font-size: 1em;
   line-height: 1.5em;
   color: $text-color;
   @extend .serif;
