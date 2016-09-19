@@ -29,8 +29,7 @@ body > header h2 {
 body {
 
   line-height: 1.5em;
-  color: #666666;//$text-color;
-  font-size: 1em;
+  color: $text-color;
   @extend .serif;
 }
 h1 {
