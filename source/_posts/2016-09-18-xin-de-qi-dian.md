@@ -19,7 +19,7 @@ categories: Life
 ### 最近的事
 Blog其实搭好有一段时间，我一直迟疑是否要写点什么，却一直迟迟没有动笔. 在昨天晚上我好友的朋友圈得知，几年前曾经跟我一块共事一个同事因为白血病突然离世，一时间感叹世事无常. 
 ### 最后
-这个博客我会持续更新，会专注iOS方向. 当然也会写一些我的所见所得.如果对此感兴趣欢迎订阅，或者与我沟通 kaidocumentgroup@gmail.com .
+这个博客我会持续更新，专注iOS方向. 当然也会写一些我的所见所得.如果对此感兴趣欢迎订阅，或者与我沟通 kaidocumentgroup@gmail.com.
 
 [1]:	http://www.cnblogs.com/chenkai
 [2]:	http://www.jianshu.com/p/9c820afa87db
