@@ -27,7 +27,7 @@ body > header h2 {
 }
 
 body {
-  line-height: 1.5em;
+  line-height: 1.0em;
   color: $text-color;
   @extend .serif;
 }
@@ -161,4 +161,3 @@ article blockquote {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
-
